@@ -1,10 +1,4 @@
-<img width="1200" height="420" alt="robust-regression-engine-header" src="ADD_YOUR_HEADER_IMAGE_LINK" />
-
----
-
 ## 🎯 Objective
-
-<img width="1600" height="1000" alt="objective" src="ADD_YOUR_OBJECTIVE_IMAGE_LINK" />
 
 ---
 
@@ -23,9 +17,7 @@ The dataset contains:
 
 ---
 
-<img width="1400" height="900" alt="workflow" src="ADD_YOUR_WORKFLOW_IMAGE_LINK" />
 
----
 
 # 📂 Project Files
 
@@ -84,7 +76,6 @@ The dataset contains:
 
 ---
 
-<img width="1200" height="420" alt="partb" src="ADD_PART_B_IMAGE_LINK" />
 
 ## 🧠 Part B : Dataset Understanding & Preparation
 
@@ -138,7 +129,6 @@ X_test_scaled  = scaler.transform(X_test)
 
 ---
 
-<img width="1200" height="420" alt="partC" src="ADD_PART_C_IMAGE_LINK" />
 
 ## 📈 Part C : Regularized Linear Models
 
@@ -200,7 +190,6 @@ lasso_grid = GridSearchCV(Lasso(), {"alpha": alphas}, cv=5, scoring="neg_mean_sq
 
 ---
 
-<img width="1200" height="420" alt="partD" src="ADD_PART_D_IMAGE_LINK" />
 
 ## 📘 Part D : Cross-Validation Strategies
 
@@ -281,7 +270,6 @@ forest = RandomForestRegressor(
 
 ---
 
-<img width="1200" height="420" alt="partF" src="ADD_PART_F_IMAGE_LINK" />
 
 ## ⚙️ Part F : Support Vector Regression
 
@@ -327,7 +315,6 @@ svr_grid = GridSearchCV(SVR(kernel="rbf"), parameters, cv=5, scoring="neg_mean_s
 
 ---
 
-<img width="1200" height="420" alt="partG" src="ADD_PART_G_IMAGE_LINK" />
 
 ## 📊 Part G : Model Comparison & Evaluation
 
