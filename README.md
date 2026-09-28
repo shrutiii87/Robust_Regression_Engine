@@ -26,8 +26,11 @@ The dataset contains:
 | 📄 File / Folder | 📌 Description |
 |------------------|----------------|
 | 📓 `Robust_Regression_Engine.ipynb` | Main notebook — the complete, annotated regularization, cross-validation, tree, SVR and model-comparison pipeline |
-| 📊 `Advanced_Regression_HousePrice_Dataset_3800.csv` | Raw housing dataset (3,800 records) |
+| 📊 `Advanced_Regression_HousePrice_Dataset_3800 - Advanced_Regression_HousePrice_Dataset_3800.csv.csv` | Raw housing dataset (3,800 records) |
 | 📘 `README.md` | Project documentation and workflow guide |
+| 📂 `Visuals` | Folder of the output visuals/graphs |
+| 📄 `Part A :- Conceptual_Foundation.pdf` | Project documentation of part :- A (Theory) |
+
 
 ---
 
