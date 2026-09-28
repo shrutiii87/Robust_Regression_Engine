@@ -1,5 +1,7 @@
 ## 🎯 Objective
 
+this project is to evaluate understanding of advanced supervised learning regression techniques, with a strong focus on regularization, model generalization, cross-validation strategies, and tree-based regression algorithms. Students will learn how to control overfitting, select optimal models, and compare linear vs non-linear regressors using real-world data.
+
 ---
 
 ## 📄 Problem Statement
@@ -215,7 +217,6 @@ kfold_scores = cross_val_score(model, X_train_scaled, y_train, cv=kfold, scoring
 
 ---
 
-<img width="1200" height="420" alt="partE" src="ADD_PART_E_IMAGE_LINK" />
 
 ## 🌳 Part E : Tree-Based Regression Models
 
