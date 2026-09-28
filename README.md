@@ -192,10 +192,6 @@ lasso_grid = GridSearchCV(Lasso(), {"alpha": alphas}, cv=5, scoring="neg_mean_sq
 
 ---
 
-<img width="985" height="490" alt="download" src="https://github.com/user-attachments/assets/02541e76-e047-43d4-9bdd-dfbf7a7bb107" />
-
----
-
 
 ## 📘 Part D : Cross-Validation Strategies
 
@@ -221,10 +217,6 @@ kfold_scores = cross_val_score(model, X_train_scaled, y_train, cv=kfold, scoring
 
 ---
 
-<img width="790" height="490" alt="download" src="https://github.com/user-attachments/assets/3ee75c74-63b7-40d6-b5a2-741ea0b7413d" />
-
-
----
 
 
 ## 🌳 Part E : Tree-Based Regression Models
@@ -280,10 +272,7 @@ forest = RandomForestRegressor(
 
 ---
 
-<img width="690" height="490" alt="download" src="https://github.com/user-attachments/assets/2e8090ff-7c66-470f-a551-e9083b74b494" />
 
-
----
 
 
 ## ⚙️ Part F : Support Vector Regression
@@ -363,10 +352,7 @@ r2   = r2_score(actual, prediction)
 
 ---
 
-<img width="889" height="490" alt="download" src="https://github.com/user-attachments/assets/87dc4141-f9bb-4796-820a-b0bc55c1acd3" />
 
-
----
 
 ### 2️⃣4️⃣ Identify signs of overfitting or underfitting
 
