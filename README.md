@@ -192,6 +192,10 @@ lasso_grid = GridSearchCV(Lasso(), {"alpha": alphas}, cv=5, scoring="neg_mean_sq
 
 ---
 
+<img width="985" height="490" alt="download" src="https://github.com/user-attachments/assets/02541e76-e047-43d4-9bdd-dfbf7a7bb107" />
+
+---
+
 
 ## 📘 Part D : Cross-Validation Strategies
 
@@ -214,6 +218,11 @@ kfold_scores = cross_val_score(model, X_train_scaled, y_train, cv=kfold, scoring
 ### 1️⃣4️⃣ Analyze how performance metrics vary across CV strategies
 
 💡 **Insight:** All four strategies land within about **1.3%** of each other (6.30 × 10¹² to 6.38 × 10¹²), so the performance estimate is **robust**. Use K-Fold for speed, and Time Series Split when temporal order matters. 🔁
+
+---
+
+<img width="790" height="490" alt="download" src="https://github.com/user-attachments/assets/3ee75c74-63b7-40d6-b5a2-741ea0b7413d" />
+
 
 ---
 
@@ -268,6 +277,11 @@ forest = RandomForestRegressor(
 | Random Forest | 5.51 × 10¹² | 6.90 × 10¹² | 0.914 |
 
 💡 **Insight:** Random Forest beats the Decision Tree with about **26% lower** validation MSE and higher R². 🥇
+
+---
+
+<img width="690" height="490" alt="download" src="https://github.com/user-attachments/assets/2e8090ff-7c66-470f-a551-e9083b74b494" />
+
 
 ---
 
@@ -346,6 +360,11 @@ r2   = r2_score(actual, prediction)
 - **Regularized linear models** — best overall: accurate, simple, fast and easy to interpret through coefficients.
 - **Tree-based models** — Random Forest is competitive; the single tree is weaker. A good option if non-linear patterns exist.
 - **SVR** — worst here, mainly due to scale and tuning issues rather than the algorithm itself.
+
+---
+
+<img width="889" height="490" alt="download" src="https://github.com/user-attachments/assets/87dc4141-f9bb-4796-820a-b0bc55c1acd3" />
+
 
 ---
 
