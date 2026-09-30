@@ -9,6 +9,11 @@ this project is to evaluate understanding of advanced supervised learning regres
 
 ---
 
+<img width="1280" height="720" alt="ezgif-5a557c6193099064" src="https://github.com/user-attachments/assets/a6429b71-8f38-4525-a62c-39580e29474f" />
+
+
+---
+
 ## 📄 Problem Statement
 
 You are hired as a **Junior Data Scientist** working on a real-estate analytics team. The company holds a **House Price dataset** of 3,800 properties and wants a **robust regression engine** that can predict a house's market price from its physical, locational and neighbourhood attributes.
