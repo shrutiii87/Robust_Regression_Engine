@@ -1,5 +1,9 @@
 <img width="1200" height="400" alt="title" src="https://github.com/user-attachments/assets/089ec745-9a28-4967-81a4-5516ffeeaac9" />
 
+---
+
+
+<img width="800" height="450" alt="ezgif-79790b79dba1bf0f" src="https://github.com/user-attachments/assets/e27c9859-de94-44c9-812f-7479c52c42c9" />
 
 ---
 
@@ -9,7 +13,8 @@ this project is to evaluate understanding of advanced supervised learning regres
 
 ---
 
-<img width="800" height="450" alt="ezgif-79790b79dba1bf0f" src="https://github.com/user-attachments/assets/e27c9859-de94-44c9-812f-7479c52c42c9" />
+<img width="800" height="450" alt="ezgif-732c95fb0903248b" src="https://github.com/user-attachments/assets/366df698-4bbe-47e5-8ab5-c88f22643a19" />
+
 
 ---
 
@@ -24,8 +29,7 @@ Your manager asks you to build and compare multiple advanced regression approach
 
 <img width="800" height="368" alt="ezgif-2852ac4c593c7eb0" src="https://github.com/user-attachments/assets/ab6ca93a-b079-4921-abb5-70b5ec8dfeae" />
 
-
-
+---
 
 # 📂 Project Files
 
