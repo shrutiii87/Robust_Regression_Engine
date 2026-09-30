@@ -67,7 +67,7 @@ The dataset contains:
 
 [![Watch Demo](https://img.shields.io/badge/Watch%20Demo-click%20to%20view-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MEAgSbSA8h0QoAyszYPEHOarAVSm7ZeJ/view?usp=sharing)
 
-📹 Add a link to your project walkthrough video here.
+📹 Click on the badge to watch the video . 
 
 ---
 
