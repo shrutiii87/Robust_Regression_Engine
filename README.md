@@ -9,8 +9,7 @@ this project is to evaluate understanding of advanced supervised learning regres
 
 ---
 
-<img width="1152" height="648" alt="Untitled design" src="https://github.com/user-attachments/assets/9ec2971f-ea7e-46d9-b4db-61ed1c8df9f1" />
-
+<img width="800" height="450" alt="ezgif-79790b79dba1bf0f" src="https://github.com/user-attachments/assets/e27c9859-de94-44c9-812f-7479c52c42c9" />
 
 ---
 
@@ -19,13 +18,6 @@ this project is to evaluate understanding of advanced supervised learning regres
 You are hired as a **Junior Data Scientist** working on a real-estate analytics team. The company holds a **House Price dataset** of 3,800 properties and wants a **robust regression engine** that can predict a house's market price from its physical, locational and neighbourhood attributes.
 
 Your manager asks you to build and compare multiple advanced regression approaches, control overfitting with regularization and cross-validation, evaluate tree-based and kernel-based models, and deliver a final comparison recommending which model the business should use.
-
-The dataset contains:
-
-- **Physical attributes** — area, bedrooms, bathrooms, property age.
-- **Locational attributes** — location score, distance to city.
-- **Neighbourhood indicators** — near school, near metro, crime rate index.
-- **Target variable** — House Price (₹).
 
 ---
 
