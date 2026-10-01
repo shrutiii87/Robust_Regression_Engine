@@ -12,6 +12,8 @@ this project is to evaluate understanding of advanced supervised learning regres
 
 ---
 
+## 📂 Project Workflow
+
 <img width="800" height="450" alt="ezgif-732c95fb0903248b" src="https://github.com/user-attachments/assets/366df698-4bbe-47e5-8ab5-c88f22643a19" />
 
 
