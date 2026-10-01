@@ -1,13 +1,13 @@
 <img width="1200" height="400" alt="title" src="https://github.com/user-attachments/assets/089ec745-9a28-4967-81a4-5516ffeeaac9" />
 
 ---
-
+## 🎯 Objective
 
 <img width="800" height="450" alt="ezgif-79790b79dba1bf0f" src="https://github.com/user-attachments/assets/e27c9859-de94-44c9-812f-7479c52c42c9" />
 
 ---
 
-## 🎯 Objective
+
 
 this project is to evaluate understanding of advanced supervised learning regression techniques, with a strong focus on regularization, model generalization, cross-validation strategies, and tree-based regression algorithms. Students will learn how to control overfitting, select optimal models, and compare linear vs non-linear regressors using real-world data.
 
